@@ -1,0 +1,3 @@
+C:/Users/ANAY SAXENA/OneDrive/Desktop/gamma/build/CMakeFiles/gamma.dir
+C:/Users/ANAY SAXENA/OneDrive/Desktop/gamma/build/CMakeFiles/edit_cache.dir
+C:/Users/ANAY SAXENA/OneDrive/Desktop/gamma/build/CMakeFiles/rebuild_cache.dir
